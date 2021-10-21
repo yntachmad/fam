@@ -1,1 +1,1 @@
-# Source code FAM appliacation
+# Source code FAM application
